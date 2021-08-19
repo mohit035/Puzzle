@@ -8,4 +8,3 @@ lines= len(list(reader))
 
 print(lines)
 
-// reading 
